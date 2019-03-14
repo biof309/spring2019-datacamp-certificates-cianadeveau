@@ -1,3 +1,2 @@
-# Title: A markdown file
+# My DataCamp Certificate
 
-Some text 
